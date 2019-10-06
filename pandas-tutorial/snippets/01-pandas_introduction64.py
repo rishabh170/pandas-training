@@ -1,0 +1,1 @@
+df.loc[df['Gender'] == 'male', 'Age'].mean()
