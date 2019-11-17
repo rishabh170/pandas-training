@@ -28,13 +28,8 @@ conda install pandas jupyter seaborn
 
 To view the content on nbviewer:
 
-- [Index](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/Index.ipynb)
-- [01 - Introduction](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/01%20-%20Introduction.ipynb)
-- [02 - Data structures](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/02%20-%20Data%20structures.ipynb)
-- [03 - Indexing and selecting data](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/03%20-%20Indexing%20and%20selecting%20data.ipynb)
-- [03b - Some more advanced indexing](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/03b%20-%20Some%20more%20advanced%20indexing.ipynb)
-- [04 - Groupby operations](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/04%20-%20Groupby%20operations.ipynb)
-- [05 - Time series data](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/05%20-%20Time%20series%20data.ipynb)
-- [06 - Reshaping data](http://nbviewer.ipython.org/github/jorisvandenbossche/pandas-tutorial/blob/master/06%20-%20Reshaping%20data.ipynb)
-
+- 01 - Pandas introduction
+- 02 - Advanced GroupBy Operations
+- 03 - Reshaping Data
+- 04 - Case Study - Air Quality Data
 
