@@ -1,0 +1,1 @@
+df['Gender'].value_counts()
