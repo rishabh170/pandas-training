@@ -1,2 +1,1 @@
-t = titles
-t.year.value_counts().head(3)
+titles.year.value_counts()
