@@ -1,5 +1,5 @@
 fig, ax1 = plt.subplots()
-df.pivot_table(index='Pclass', columns='Sex', 
+df.pivot_table(index='Pclass', columns='Gender', 
                values='Survived', aggfunc='mean').plot(kind='bar', 
                                                        rot=0, 
                                                        ax=ax1)
